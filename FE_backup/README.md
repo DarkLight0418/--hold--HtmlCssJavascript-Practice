@@ -1,3 +1,2 @@
-# Kokoa Clone 2025 update (from hjkim) 
-
-달려봅세!
+# 학습 정리 관련 파일들
+**정리 예정**
